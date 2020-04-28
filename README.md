@@ -1,0 +1,2 @@
+# biggest_plus_sign
+A plus sign is a shape formed by the same digits that are inline with each other (horizontally or vertically). In this case, the length of the sides of the plus sign do not need to be equal (i.e. some sides may be longer or shorter than the others). The size of the plus sign is equal to the largest length of its sides. For example, for a given multidimensional array below:   4 2 5 4 7 \n4 3 5 2 1\n  4 5 5 5 5\n 3 2 5 3 8 \n2 2 5 4 4 The plus sign is formed with the digit 5. Its center is at (2,2) and its length is 2. 
