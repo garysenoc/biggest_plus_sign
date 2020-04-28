@@ -3,7 +3,7 @@
 int main(){
 	int i,j,n1,n2,count=0,largest=0,x=1,d1,d2;
   
-  printf("Enter length and width: );
+  printf("Enter length and width:" );
 	scanf("%d %d",&n1,&n2);
 	int arr[n1][n2];
 
