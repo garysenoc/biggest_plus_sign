@@ -27,7 +27,7 @@ int main(){
 		}
 
     }
-    printf("%d %d", d1,d2);
+    printf("The center is %d %d", d1,d2);
 
 	return 0;
 }
